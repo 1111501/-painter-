@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\1203\1203\bin\Debug\net6.0-windows\1203.exe
+C:\Users\User\Desktop\1203\1203\bin\Debug\net6.0-windows\1203.deps.json
+C:\Users\User\Desktop\1203\1203\bin\Debug\net6.0-windows\1203.runtimeconfig.json
+C:\Users\User\Desktop\1203\1203\bin\Debug\net6.0-windows\1203.dll
+C:\Users\User\Desktop\1203\1203\bin\Debug\net6.0-windows\1203.pdb
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\_1203.Form1.resources
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.csproj.GenerateResource.cache
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.AssemblyInfo.cs
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.dll
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\refint\1203.dll
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.pdb
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\1203.genruntimeconfig.cache
+C:\Users\User\Desktop\1203\1203\obj\Debug\net6.0-windows\ref\1203.dll
